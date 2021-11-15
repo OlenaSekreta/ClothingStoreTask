@@ -1,0 +1,17 @@
+female,skirt,30
+female,trousers,50
+male,trousers,50
+female,skirt,30
+female,trousers,50
+female,skirt,30
+female,trousers,50
+female,skirt,30
+female,skirt,30
+female,trousers,50
+female,skirt,30
+female,dress,70
+unisex,scarf,25
+unisex,mittens,15
+female,skirt,30
+female,trousers,50
+female,skirt,30

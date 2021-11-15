@@ -1,0 +1,11 @@
+female,skirt,30
+female,trousers,50
+male,trousers,50
+female,shirt,40
+male,shirt,40
+female,blouse,30
+female,coat,80
+male,coat,80
+female,dress,70
+unisex,scarf,25
+unisex,mittens,15
